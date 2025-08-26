@@ -31,7 +31,7 @@ untung-alvina -> PAID
 shazia -> PAID
 maudina-fikar -> PAID
 
-*AGUSTUS
+*AGUSTUS*
 rapi-fani -> DISABLE
 sugi-agung -> PAID
 ani-hendra -> PAID
@@ -41,8 +41,9 @@ riko-novia -> PAID
 pipit-rifan -> PAID
 berlin-regi -> DISABLE
 cindi-aril -> DISABLE
-geby-jeko  -> DISABLE
-nopi-qodri 
+geby-jeko  -> PAID
+nopi-qodri -> PAID
+qodri-nopi -> PAID
 melisa-takbir
 alina-afif -> PAID
 niken-farhan
@@ -53,9 +54,9 @@ sabrina-faisal
 dyah-ferry -> PAID
 ainun-ronal
 bayu-lina -> PAID
-qodri-nopi
-ilham-frida
-siti-aldi
-andi-sofiah
+ilham-frida -> PAID
+siti-aldi -> PAID
+andi-sofiah -> PAID
 novita-adi
 sindy-reza
+eva-fadho -> PAID
