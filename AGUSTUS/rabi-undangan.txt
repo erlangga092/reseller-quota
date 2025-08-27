@@ -40,14 +40,14 @@ jihan -> PAID
 riko-novia -> PAID
 pipit-rifan -> PAID
 berlin-regi -> DISABLE
-cindi-aril -> DISABLE
+cindi-aril -> ENABLE SAMPAI JUM'AT
 geby-jeko  -> PAID
 nopi-qodri -> PAID
 qodri-nopi -> PAID
 melisa-takbir
 alina-afif -> PAID
-niken-farhan
-farhan-niken
+niken-farhan - DISABLE
+farhan-niken - DISABLE
 supyan-ragil
 rina-afen -> PAID
 sabrina-faisal
