@@ -39,7 +39,7 @@ putri-agung -> PAID
 jihan -> PAID
 riko-novia -> PAID
 pipit-rifan -> PAID
-berlin-regi -> DISABLE
+berlin-regi -> ENABLE SAMPAI ...
 cindi-aril -> ENABLE SAMPAI JUM'AT
 geby-jeko  -> PAID
 nopi-qodri -> PAID
