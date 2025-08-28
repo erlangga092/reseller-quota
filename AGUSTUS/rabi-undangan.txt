@@ -39,8 +39,8 @@ putri-agung -> PAID
 jihan -> PAID
 riko-novia -> PAID
 pipit-rifan -> PAID
-berlin-regi -> ENABLE SAMPAI ...
-cindi-aril -> ENABLE SAMPAI JUM'AT
+berlin-regi -> PAID 
+cindi-aril -> PAID 
 geby-jeko  -> PAID
 nopi-qodri -> PAID
 qodri-nopi -> PAID
@@ -60,5 +60,5 @@ andi-sofiah -> PAID
 novita-adi
 sindy-reza
 eva-fadho -> PAID
-reza-puput
-rini-angga
+reza-puput -> PAID
+rini-angga -> PAID
