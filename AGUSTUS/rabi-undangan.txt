@@ -19,13 +19,13 @@ arif-maria -> PAID
 adri-merry -> PAID
 pipit-putra
 tara-rifkon -> PAID
-rehan-cindi
+rehan-cindi -> DISABLE
 winarni-deni -> PAID
 holan-hendri -> PAID
 david-mutia -> PAID
 nelvi-zamil -> PAID
-zamil-nelvi ->PAID
-sinta-irfan 
+zamil-nelvi -> PAID
+sinta-irfan -> DISABLE
 elysa-riza -> PAID
 untung-alvina -> PAID
 shazia -> PAID
@@ -60,3 +60,5 @@ andi-sofiah -> PAID
 novita-adi
 sindy-reza
 eva-fadho -> PAID
+reza-puput
+rini-angga
