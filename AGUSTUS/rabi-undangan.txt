@@ -46,9 +46,9 @@ nopi-qodri -> PAID
 qodri-nopi -> PAID
 melisa-takbir
 alina-afif -> PAID
-niken-farhan - DISABLE
-farhan-niken - DISABLE
-supyan-ragil
+niken-farhan -> DISABLE
+farhan-niken -> DISABLE
+supyan-ragil -> DISABLE
 rina-afen -> PAID
 sabrina-faisal
 dyah-ferry -> PAID
@@ -62,3 +62,6 @@ sindy-reza
 eva-fadho -> PAID
 reza-puput -> PAID
 rini-angga -> PAID
+amanda-khomar
+amelia-arif
+arini-lucky
