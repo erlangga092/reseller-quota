@@ -25,7 +25,7 @@ holan-hendri -> PAID
 david-mutia -> PAID
 nelvi-zamil -> PAID
 zamil-nelvi -> PAID
-sinta-irfan -> DISABLE
+sinta-irfan -> PAID 
 elysa-riza -> PAID
 untung-alvina -> PAID
 shazia -> PAID
@@ -44,7 +44,7 @@ cindi-aril -> PAID
 geby-jeko  -> PAID
 nopi-qodri -> PAID
 qodri-nopi -> PAID
-melisa-takbir
+melisa-takbir -> PAID
 alina-afif -> PAID
 niken-farhan -> DISABLE
 farhan-niken -> DISABLE
