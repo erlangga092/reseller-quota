@@ -58,7 +58,7 @@ ilham-frida -> PAID
 siti-aldi -> PAID
 andi-sofiah -> PAID
 novita-adi -> PAID 
-sindy-reza
+sindy-reza -> DISABLE
 eva-fadho -> PAID
 reza-puput -> PAID
 rini-angga -> PAID
