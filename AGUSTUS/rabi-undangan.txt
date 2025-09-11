@@ -50,7 +50,7 @@ niken-farhan -> DISABLE
 farhan-niken -> DISABLE
 supyan-ragil -> DISABLE
 rina-afen -> PAID
-sabrina-faisal -> DISABLE
+sabrina-faisal -> ENABLE sampai ...
 dyah-ferry -> PAID
 ainun-ronal -> DISABLE
 bayu-lina -> PAID
@@ -58,10 +58,10 @@ ilham-frida -> PAID
 siti-aldi -> PAID
 andi-sofiah -> PAID
 novita-adi -> PAID 
-sindy-reza -> DISABLE
+sindy-reza -> ENABLE sampai ...
 eva-fadho -> PAID
 reza-puput -> PAID
 rini-angga -> PAID
 amanda-khomar -> PAID
-amelia-arif
-arini-lucky
+amelia-arif -> DISABLE
+arini-lucky -> DISABLE
