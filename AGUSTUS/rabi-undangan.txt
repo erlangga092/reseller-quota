@@ -64,4 +64,4 @@ reza-puput -> PAID
 rini-angga -> PAID
 amanda-khomar -> PAID
 amelia-arif -> DISABLE
-arini-lucky -> DISABLE
+arini-lucky -> PAID
