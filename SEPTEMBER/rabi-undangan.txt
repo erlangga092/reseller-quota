@@ -1,7 +1,7 @@
 elly-hadi -> PAID
 wulan-riyan -> PAID
 evi-dimas -> PAID
-vory-ilham
+vory-ilham -> DISABLE
 wiwit-diki -> PAID
 elsa-rafi -> PAID
 junaidi-maulidah -> PAID
@@ -14,8 +14,18 @@ sholehuddin-shinta -> PAID
 nawaroh-mustofa -> PAID
 billy-rizza -> PAID
 novi-risqi
-mely-faiz
-faiz-mely
+mely-faiz -> PAID
+faiz-mely -> PAID
 risqi-novi
-liha-arvian
+liha-arvian -> PAID
 irsad-fitri
+mitha-farid
+fitri-renaldi
+yuni-roy
+rinny-dwi
+dhea-pian -> PAID
+wahyu-dwi
+riski-slamet -> PAID
+putri-willy
+sasa-rifki
+fasya
