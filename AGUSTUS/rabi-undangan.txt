@@ -63,5 +63,5 @@ eva-fadho -> PAID
 reza-puput -> PAID
 rini-angga -> PAID
 amanda-khomar -> PAID
-amelia-arif -> DISABLE
+amelia-arif -> PAID 
 arini-lucky -> PAID
