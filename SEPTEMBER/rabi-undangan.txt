@@ -7,16 +7,16 @@ elsa-rafi -> PAID
 junaidi-maulidah -> PAID
 andin-talam -> PAID
 desi-dewan -> PAID
-diki-wiwit
+diki-wiwit -> DISABLE
 rendy-alfi -> PAID
 tresia-rizhal -> PAID
 sholehuddin-shinta -> PAID
 nawaroh-mustofa -> PAID
 billy-rizza -> PAID
-novi-risqi
+novi-risqi -> PAID
 mely-faiz -> PAID
 faiz-mely -> PAID
-risqi-novi
+risqi-novi -> PAID
 liha-arvian -> PAID
 irsad-fitri
 mitha-farid
@@ -24,8 +24,22 @@ fitri-renaldi
 yuni-roy -> PAID
 rinny-dwi -> PAID
 dhea-pian -> PAID
-wahyu-dwi
+indra-dwi -> PAID
 riski-slamet -> PAID
 putri-willy
-sasa-rifki
-fasya
+sasa-rifki -> PAID
+fasya ->PAID
+abel-ressa
+dara-ananda
+mario-eve
+wulan-dedy
+adi-novita -> PAID
+fandi-silvi
+nesya-rifki -> PAID
+esti-taba
+ardit-sinta
+dian-wahyu
+cindy-deny
+silvi-agil -> PAID
+moeh-titis
+yani-aris
