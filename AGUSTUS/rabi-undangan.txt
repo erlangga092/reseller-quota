@@ -63,5 +63,9 @@ eva-fadho -> PAID
 reza-puput -> PAID
 rini-angga -> PAID
 amanda-khomar -> PAID
+<<<<<<< HEAD
 amelia-arif -> PAID
+=======
+amelia-arif -> PAID 
+>>>>>>> d1c759f2da29ef9349880fb4e30e2eb1514c10fb
 arini-lucky -> PAID
