@@ -29,17 +29,18 @@ riski-slamet -> PAID
 putri-willy
 sasa-rifki -> PAID
 fasya ->PAID
-abel-ressa
-dara-ananda
-mario-eve
-wulan-dedy
+abel-ressa -> PAID
+dara-ananda -> PAID
+mario-eve -> PAID
+wulan-dedy -> PAID
 adi-novita -> PAID
-fandi-silvi
+fandi-silvi -> PAID
 nesya-rifki -> PAID
 esti-taba
-ardit-sinta
+ardit-sinta -> PAID
 dian-wahyu
 cindy-deny
 silvi-agil -> PAID
 moeh-titis
 yani-aris
+levi-huda -> PAID

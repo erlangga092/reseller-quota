@@ -8,5 +8,5 @@ rina-pandi
 bintang-andika
 
 UNPAID
-elvina-sarif
-farhan
+elvina-sarif -> PAID
+farhan -> PAID
